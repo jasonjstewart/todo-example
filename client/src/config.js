@@ -6,6 +6,6 @@ export const configOptions = {
     apiUrl: 'http://localhost:3001'
   },
   production: {
-    apiUrl: 'https://todo-patrik-test.herokuapp.com'
+    apiUrl: 'https://safe-coast-69700.herokuapp.com'
   }
 }
